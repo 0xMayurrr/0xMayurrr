@@ -370,6 +370,9 @@ I was tired of Alchemy's surprise bills and Infura's rate limits. So I built my 
 
 <div align="center">
 
+![snake gif](https://github.com/0xMayurrr/0xMayurrr/blob/output/github-snake.svg)
+![snake gif](https://github.com/0xMayurrr/0xMayurrr/blob/output/github-snake-dark.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xMayurrr/0xMayurrr/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xMayurrr/0xMayurrr/output/github-contribution-grid-snake.svg" />
