@@ -370,7 +370,6 @@ I was tired of Alchemy's surprise bills and Infura's rate limits. So I built my 
 
 <div align="center">
 
-![snake gif](https://github.com/0xMayurrr/0xMayurrr/blob/output/github-snake.svg)
 ![snake gif](https://github.com/0xMayurrr/0xMayurrr/blob/output/github-snake-dark.svg)
 
 <picture>
@@ -380,31 +379,6 @@ I was tired of Alchemy's surprise bills and Infura's rate limits. So I built my 
 </picture>
 
 </div>
-
-> **To enable the snake:** Go to your `0xMayurrr` repo → **Actions** tab → enable workflows → add this file at `.github/workflows/snake.yml`:
-> 
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{ cron: "0 0 * * *" }]
->   workflow_dispatch:
-> jobs:
->   snake:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk@v3
->         with:
->           github_user_name: 0xMayurrr
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
 
 ---
 
