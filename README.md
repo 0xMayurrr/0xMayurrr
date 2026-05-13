@@ -358,7 +358,9 @@ I was tired of Alchemy's surprise bills and Infura's rate limits. So I built my 
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xMayurrr&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa" width="100%"/>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=0xMayurrr&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=a78bfa)](https://github.com/0xMayurrr)
+
+
 </div>    
 
 ---
