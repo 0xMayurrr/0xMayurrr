@@ -350,7 +350,9 @@ I was tired of Alchemy's surprise bills and Infura's rate limits. So I built my 
 
 <br/>
 <p align="center">
+    
 [![GitHub Streak](https://streak-stats.demolab.com?user=0xMayurrr&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)](https://git.io/streak-stats)
+
 </p>
 
 </p>
