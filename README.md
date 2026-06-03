@@ -382,7 +382,7 @@ I'm actively looking for **remote Web3 roles** — smart contract dev, protocol 
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-646cf2?style=for-the-badge)](https://port-folio-iota-tan.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-646cf2?style=for-the-badge)](https://mayurworks.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurp03/)
 [![X / Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xMayurrr)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurkarthick2006@gmail.com)
