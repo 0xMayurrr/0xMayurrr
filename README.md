@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-646cf2?style=for-the-badge&logoColor=white)](https://port-folio-iota-tan.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-646cf2?style=for-the-badge&logoColor=white)](https://mayurworks.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurp03/)
 [![X](https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xMayurrr)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurkarthick2006@gmail.com)
