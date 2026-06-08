@@ -1,8 +1,6 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:0d1117&height=140&section=header&text=Mayur%20P.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=%40%200xMayurrr%20%E2%80%94%20Web3%20Developer%20%26%20Smart%20Contract%20Engineer&descSize=15&descColor=6b7280&descAlignY=68" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:111827,100:0d1117&text=Mayur%20P.&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Web3%20Developer%20%7C%20Smart%20Contract%20Engineer&descSize=18&descColor=d1d5db&descAlignY=60" width="100%" />
+</p>
 
 <br/>
 
