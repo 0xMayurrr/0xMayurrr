@@ -27,7 +27,15 @@
 
 The open-source alternative to Alchemy and Infura with a hosted SaaS tier. API key auth, per-key rate limits, multi-node failover, real-time dashboard, RPC playground, and chain analytics. Supports Ethereum, Polygon, BSC, and Arbitrum. Pricing: Free / $9 / $29 / $99.
 
-`Node.js` `Express` `React` `Supabase` `Docker` `Railway` `Stripe`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=express" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=railway" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=stripe" height="40"/>
+</p>
 
 ---
 
@@ -35,7 +43,14 @@ The open-source alternative to Alchemy and Infura with a hosted SaaS tier. API k
 
 ZK-SNARK based credential system using W3C DIDs and IPFS. Prove credentials without leaking identity. Published IEEE-style architecture paper. Roadmap product: ProofHire — an AI proof-of-skill hiring network.
 
-`ZK-SNARKs` `Semaphore` `W3C DIDs` `IPFS` `TypeScript` `Ethereum`
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=zksync" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=semaphore" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=w3c" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ipfs" height="40"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ethereum" height="40"/>
+</p>
 
 ---
 
@@ -43,7 +58,12 @@ ZK-SNARK based credential system using W3C DIDs and IPFS. Prove credentials with
 
 Factory + GroupVault contract architecture on Cronos EVM. Each group gets its own deployed contract — fully non-custodial. Greedy debt-minimization algorithm for optimal on-chain settlements.
 
-`Solidity 0.8.24` `Wagmi v2` `React` `MongoDB` · Contract: `0xe9256300bb409b5Cf8CF16aDD6A0aDB0cc72E5bf`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=wagmi" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+</p>
 
 ---
 
@@ -51,7 +71,11 @@ Factory + GroupVault contract architecture on Cronos EVM. Each group gets its ow
 
 Verifiable Credentials on Hyperledger Fabric. Dual-layer auth (MetaMask + X.509 MSP), AI fraud detection, ZK privacy layer. Submitted to Blockchain India Challenge 2024 (MeitY).
 
-`Hyperledger Fabric 2.5` `Golang` `ZK`
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=hyperledger" height="40"/>
+  <img src="https://skillicons.dev/icons?i=go" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=zeroknowledge" height="40"/>
+</p>
 
 ---
 
@@ -59,7 +83,11 @@ Verifiable Credentials on Hyperledger Fabric. Dual-layer auth (MetaMask + X.509 
 
 n8n-style visual workflow builder for crypto trading strategies. Price triggers, indicators, AI reasoning nodes — compiled and executed on-chain with no backend.
 
-`TypeScript` `On-chain execution`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ai" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ethereum" height="40"/>
+</p>
 
 ---
 
@@ -67,7 +95,11 @@ n8n-style visual workflow builder for crypto trading strategies. Price triggers,
 
 Commit-reveal prediction market on Aptos with a HuggingFace FinBERT NLP oracle for MEV-resistant, sentiment-driven outcome resolution.
 
-`Move` `Next.js` `HuggingFace FinBERT`
+<p align="left">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=aptos" height="40"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="40"/>
+</p>
 
 ---
 
@@ -75,15 +107,11 @@ Commit-reveal prediction market on Aptos with a HuggingFace FinBERT NLP oracle f
 
 Detects Solidity vulnerabilities, scores contract security, and auto-generates patched code in under 2 seconds. Built for NodeOps × CreateOS contest.
 
-`TypeScript` `CreateOS Skills`
-
----
-
-**CryptoWallet** — Non-Custodial Mobile Ethereum Wallet
-
-AES-256 encrypted seed phrase storage, live portfolio charts, Send / Receive / Swap — ships as an Android APK.
-
-`React Native` `Ethers.js v5`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=solidity" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai" height="40"/>
+</p>
 
 ---
 
@@ -91,7 +119,11 @@ AES-256 encrypted seed phrase storage, live portfolio charts, Send / Receive / S
 
 4-role campus system with a Gemini-powered RAG assistant. Built for Tech Masters '26. **Winner.**
 
-`React` `Firebase` `Gemini AI`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="40"/>
+</p>
 
 ---
 
@@ -99,7 +131,10 @@ AES-256 encrypted seed phrase storage, live portfolio charts, Send / Receive / S
 
 Filters stays by mood and aesthetic using AI speech recognition and vibe-based recommendations.
 
-`JavaScript` `AI`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai" height="40"/>
+</p>
 
 ---
 
@@ -130,18 +165,85 @@ Filters stays by mood and aesthetic using AI speech recognition and vibe-based r
 
 ---
 
+### 🎯 Core Expertise
+
+Smart Contracts • Account Abstraction • DeFi • RPC Infrastructure • Web3 SaaS • ZK Identity • AI Agents • RAG Systems • Wallet Development • Multi-Chain Architecture • API Platforms • Developer Tooling
+
+---
+
 ## Stack
 
-**Blockchain** — Solidity · Move · Hardhat · Ethers.js · Wagmi · OpenZeppelin · Hyperledger Fabric
+### Blockchain
 
-**ZK & Identity** — ZK-SNARKs · Semaphore · W3C DIDs · IPFS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity" height="42" title="Solidity"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" height="42" title="Hardhat"/>
+  <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" height="42" title="Ethers.js"/>
+  <img src="https://wagmi.sh/icon-dark.png" height="42" title="Wagmi"/>
+  <img src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" height="42" title="OpenZeppelin"/>
+  <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" height="42" title="Hyperledger Fabric"/>
+</p>
 
-**Chains** — Ethereum · Polygon · Arbitrum · BNB Chain · Base · Cronos · Aptos
+**Solidity • Hardhat • Ethers.js • Wagmi • OpenZeppelin • Hyperledger Fabric**
 
-**Full Stack** — TypeScript · JavaScript · Python · Go · React · Next.js · Node.js
+---
 
-**Infra** — Docker · Supabase · PostgreSQL · MongoDB · Railway · Vercel · Stripe
+### ZK & Identity
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ipfs" height="42" title="IPFS"/>
+</p>
+
+**ZK-SNARKs • Semaphore • W3C DIDs • IPFS**
+
+---
+
+###  Chains
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ethereum" height="42" title="Ethereum"/>
+  <img src="https://cryptologos.cc/logos/polygon-matic-logo.png?v=040" height="42" title="Polygon"/>
+  <img src="https://cryptologos.cc/logos/arbitrum-arb-logo.png?v=040" height="42" title="Arbitrum"/>
+  <img src="https://cryptologos.cc/logos/bnb-bnb-logo.png?v=040" height="42" title="BNB Chain"/>
+  <img src="https://avatars.githubusercontent.com/u/108554348?s=200&v=4" height="42" title="Base"/>
+  <img src="https://cryptologos.cc/logos/cronos-cro-logo.png?v=040" height="42" title="Cronos"/>
+  <img src="https://cryptologos.cc/logos/aptos-apt-logo.png?v=040" height="42" title="Aptos"/>
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=040" height="42" title="Solana"/>
+</p>
+
+**Ethereum • Polygon • Arbitrum • BNB Chain • Base • Cronos • Aptos • Solana**
+
+---
+
+### Full Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript" height="42" title="TypeScript"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="42" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=python" height="42" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=go" height="42" title="Go"/>
+  <img src="https://skillicons.dev/icons?i=react" height="42" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" height="42" title="Next.js"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="42" title="Node.js"/>
+</p>
+
+**TypeScript • JavaScript • Python • Go • React • Next.js • Node.js**
+
+---
+
+### ☁️ Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="42" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=supabase" height="42" title="Supabase"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" title="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="42" title="MongoDB"/>
+  <img src="https://railway.com/brand/logo-light.svg" height="42" title="Railway"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="42" title="Vercel"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" height="42" title="Stripe"/>
+</p>
+
+**Docker • Supabase • PostgreSQL • MongoDB • Railway • Vercel • Stripe**
 ---
 
 ## Stats
