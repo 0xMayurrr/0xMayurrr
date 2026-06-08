@@ -1,22 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0a0a0a&height=3&section=header" width="100%"/>
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│   ██████╗ ██╗  ██╗███╗   ███╗ █████╗ ██╗   ██╗██████╗ ██████╗     │
+│  ██╔═████╗╚██╗██╔╝████╗ ████║██╔══██╗╚██╗ ██╔╝██╔══██╗██╔══██╗    │
+│  ██║██╔██║ ╚███╔╝ ██╔████╔██║███████║ ╚████╔╝ ██████╔╝██████╔╝    │
+│  ████╔╝██║ ██╔██╗ ██║╚██╔╝██║██╔══██║  ╚██╔╝  ██╔══██╗██╔══██╗    │
+│  ╚██████╔╝██╔╝ ██╗██║ ╚═╝ ██║██║  ██║   ██║   ██║  ██║██║  ██║    │
+│   ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝   │
+│                                                                     │
+│            building on-chain infrastructure, one tx at a time      │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=a3e635&center=true&vCenter=true&width=700&lines=Web3+Developer+%26+Smart+Contract+Engineer;ZK+%2B+DID+Infrastructure+Builder;SaaS+Founder+%E2%80%94+rpcforge.dev+is+live+%E2%9A%A1;Vibecoder+%7C+engineering_the_future()%3B)](https://git.io/typing-svg)
 
 <br/>
 
-# `0xMayurrr`
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=a3e635&center=true&vCenter=true&width=650&lines=Web3+Developer+%26+Smart+Contract+Engineer;ZK+%2B+DID+Infrastructure+Builder;SaaS+Founder+%E2%80%94+rpcforge.dev+is+live;Vibecoder+%7C+engineering_the_future()%3B)](https://git.io/typing-svg)
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mayurworks.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://mayurworks.vercel.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mayurp03-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurp03/)&nbsp;
-[![X](https://img.shields.io/badge/X-@0xMayurrr-000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xMayurrr)&nbsp;
-[![Research](https://img.shields.io/badge/Research-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://zenproof-research.hashnode.dev/)&nbsp;
-[![Email](https://img.shields.io/badge/Email-mayurkarthick2006-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mayurkarthick2006@gmail.com)&nbsp;
+[![Portfolio](https://img.shields.io/badge/portfolio-mayurworks.vercel.app-a3e635?style=flat-square&logo=vercel&logoColor=black)](https://mayurworks.vercel.app/)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/linkedin-mayurp03-a3e635?style=flat-square&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/mayurp03/)&nbsp;
+[![X](https://img.shields.io/badge/x-@0xMayurrr-a3e635?style=flat-square&logo=x&logoColor=black)](https://x.com/0xMayurrr)&nbsp;
+[![Research](https://img.shields.io/badge/research-hashnode-a3e635?style=flat-square&logo=hashnode&logoColor=black)](https://zenproof-research.hashnode.dev/)&nbsp;
+[![Email](https://img.shields.io/badge/email-mayurkarthick2006-a3e635?style=flat-square&logo=gmail&logoColor=black)](mailto:mayurkarthick2006@gmail.com)&nbsp;
 [![Views](https://komarev.com/ghpvc/?username=0xMayurrr&color=a3e635&style=flat-square&label=profile+views)](https://github.com/0xMayurrr)
 
 </div>
@@ -25,32 +31,30 @@
 
 ---
 
-<br/>
+```bash
+$ cat identity.sol
+```
 
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.26;
 
-/// @title  Identity.sol
-/// @notice on-chain proof of who I am
-
 contract MayurP {
-
-    string public name      = "Mayur P.";
-    string public handle    = "@0xMayurrr";
-    string public degree    = "BSc Computer Technology — Blockchain & Distributed Computing";
-    string public college   = "Rathinam University, Tamil Nadu · Class of 2026";
-    string public status    = "Shipping SaaS · Hunting remote Web3 roles · Open to relocation 🌍";
+    string public name    = "Mayur P.";
+    string public handle  = "@0xMayurrr";
+    string public degree  = "BSc Computer Technology — Blockchain & Distributed Computing";
+    string public college = "Rathinam University, Tamil Nadu · Class of 2026";
+    string public status  = "Shipping SaaS · Hunting remote Web3 roles · Open to relocation 🌍";
 
     string[] public shipping = [
-        "RPCForge   — Multi-chain RPC Gateway SaaS     [ LIVE on Product Hunt ⚡ ]",
-        "ZenProof   — Privacy-Preserving Trust Infra   [ Research live on Hashnode 🔐 ]",
-        "ProofHire  — AI Proof-of-Skill Hiring Network [ On the roadmap 🧠 ]"
+        "RPCForge   ⚡  — Multi-chain RPC Gateway SaaS     [ LIVE on Product Hunt ]",
+        "ZenProof   🔐  — Privacy-Preserving Trust Infra   [ Research live on Hashnode ]",
+        "ProofHire  🧠  — AI Proof-of-Skill Hiring Network [ Roadmap ]"
     ];
 
     string[] public published = [
         "zenproof-research.hashnode.dev — ZK + DID architecture deep dives",
-        "IEEE-style paper — ZenProof V1: ZK-SNARK credential system"
+        "IEEE-style paper — ZenProof V1: ZK-SNARK + W3C DID credential system"
     ];
 
     string[] public openTo = [
@@ -63,343 +67,345 @@ contract MayurP {
     function edge() external pure returns (string memory) {
         return "10+ hackathon wins. Merged OSS PRs. Deployed contracts. Live SaaS. Research published.";
     }
-
-    function vibe() external pure returns (string memory) {
-        return "Ship it. Break it. Fix it. Write about it. Ship it again.";
-    }
 }
 ```
 
-<br/>
+---
+
+```bash
+$ ls -la ~/projects/web3/
+```
+
+```
+drwxr-xr-x  RPCForge/           ⚡  Multi-chain RPC Gateway SaaS            [LIVE · Product Hunt]
+drwxr-xr-x  ZenProof/           🔐  Privacy-Preserving Trust Infrastructure  [Research Published]
+drwxr-xr-x  OnTrade/            🟠  n8n-style On-Chain Automation
+drwxr-xr-x  ChainSplit/         🟡  Decentralized Bill Splitting · Cronos EVM
+drwxr-xr-x  Credora/            🟢  Enterprise Credentials · Hyperledger Fabric
+drwxr-xr-x  AptosMarket/        🔮  Prediction Market · FinBERT Sentiment Oracle
+drwxr-xr-x  AI-ContractAuditor/ 🛡️  Smart Contract Security Tool · NodeOps x CreateOS
+drwxr-xr-x  CryptoWallet/       📱  Institutional-Grade Mobile Ethereum Wallet
+
+$ ls -la ~/projects/web2/
+
+drwxr-xr-x  CampusAidBuddy/     🎓  Gemini RAG Campus Assistant · Tech Masters '26 Winner 🏆
+drwxr-xr-x  VibeStay/           🏠  Vibe-Driven AI Stay Booking Platform
+```
 
 ---
 
-<br/>
-
-## 01 — Featured Project
-
-<br/>
-
-### ⚡ RPCForge &nbsp;·&nbsp; *The open-source RPC gateway SaaS*
+```bash
+$ cat ~/projects/web3/RPCForge/README.md
+```
 
 > Tired of Alchemy's surprise bills and Infura's rate limits. So I built my own — and shipped it as a product.
 
 ```
-  your dApp  ·  hardhat  ·  ethers.js
-              │  x-api-key: rpcf_xxx
-              ▼
-   ╔══════════════════════════════════════════════╗
-   ║           ⚡  RPCForge  Gateway              ║
-   ║                                              ║
-   ║   🔑 API Key Auth     🚦 Per-Tier Limits     ║
-   ║   ⚡ Response Cache   🔄 Multi-node Failover ║
-   ║   🚫 Method Guard     📊 Real-time Dashboard ║
-   ║   🛝 RPC Playground   🗺️  Chain Heatmaps     ║
-   ║   📈 Latency Tracker  🔑 Key-level Analytics ║
-   ╚══════════════════════╦═══════════════════════╝
-                          │
-         ┌────────────────┼──────────────┬──────────────┐
-         ▼                ▼              ▼              ▼
-      Ethereum         Polygon          BSC          Arbitrum
-      + Sepolia        Mainnet         Mainnet         One
+  your dApp · hardhat · ethers.js
+          │   x-api-key: rpcf_xxx
+          ▼
+ ╔══════════════════════════════════════════════╗
+ ║           ⚡  RPCForge  Gateway              ║
+ ║                                              ║
+ ║  🔑 API Key Auth     🚦 Per-Tier Rate Limit  ║
+ ║  ⚡ Response Cache   🔄 Multi-node Failover  ║
+ ║  🚫 Method Guard     📊 WebSocket Dashboard  ║
+ ║  🛝 RPC Playground   🗺️  Chain Heatmaps      ║
+ ║  📈 Latency Tracker  🔑 Key-level Analytics  ║
+ ╚══════════════════════╦═══════════════════════╝
+                        │
+      ┌─────────────────┼──────────────┬──────────────┐
+      ▼                 ▼              ▼              ▼
+   Ethereum          Polygon          BSC          Arbitrum
+   + Sepolia         Mainnet         Mainnet         One
 ```
 
-| | Public RPCs | Alchemy / Infura | ⚡ RPCForge |
-|---|:---:|:---:|:---:|
-| API Key Auth | ❌ | ✅ | ✅ |
-| Multi-node Failover | ❌ | ✅ | ✅ |
-| Per-key Rate Limits | ❌ | ✅ | ✅ |
-| Self-hostable | ✅ | ❌ | ✅ |
-| Open Source | ✅ | ❌ | ✅ |
-| Real-time Dashboard | ❌ | ✅ | ✅ |
-| Vendor lock-in | ❌ | 🔒 | ❌ |
-| **Pricing** | Free | $$$ | **Free · $9 · $29 · $99** |
+```
+# vs the competition
 
-`Node.js` `Express` `React 18` `Supabase` `Docker` `Railway` `Vercel` `Stripe`
-`Ethereum` `Polygon` `BSC` `Arbitrum` `Sepolia`
+feature             public-rpcs    alchemy/infura    rpcforge
+────────────────────────────────────────────────────────────
+api key auth             ✗              ✓               ✓
+multi-node failover      ✗              ✓               ✓
+per-key rate limits      ✗              ✓               ✓
+self-hostable            ✓              ✗               ✓
+open source              ✓              ✗               ✓
+real-time dashboard      ✗              ✓               ✓
+vendor lock-in           ✗              🔒              ✗
+pricing               free            $$$         free·$9·$29·$99
+```
 
-[![Live](https://img.shields.io/badge/🔴_LIVE-rpcforge.dev-a3e635?style=for-the-badge&logo=vercel&logoColor=black)](https://rpcforge.dev)
-[![Product Hunt](https://img.shields.io/badge/Product_Hunt-LAUNCHED-DA552F?style=for-the-badge&logo=producthunt&logoColor=white)](https://www.producthunt.com/@0xmayurrr)
-[![Dashboard](https://img.shields.io/badge/Dashboard-Open-6467f2?style=for-the-badge)](https://rpcforge.dev/dashboard)
-[![Repo](https://img.shields.io/badge/GitHub-RPCForge-181717?style=for-the-badge&logo=github)](https://github.com/0xMayurrr/RPCForge)
+```bash
+stack   →  Node.js · Express · React 18 · Supabase · Docker · Railway · Vercel · Stripe
+chains  →  Ethereum · Polygon · BSC · Arbitrum · Sepolia
+live    →  rpcforge.dev
+launch  →  Product Hunt [ LAUNCHED ]
+```
 
-<br/>
+[![live](https://img.shields.io/badge/🔴_live-rpcforge.dev-a3e635?style=flat-square&logo=vercel&logoColor=black)](https://rpcforge.dev)&nbsp;
+[![product hunt](https://img.shields.io/badge/product_hunt-launched-DA552F?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/@0xmayurrr)&nbsp;
+[![dashboard](https://img.shields.io/badge/dashboard-open-6467f2?style=flat-square)](https://rpcforge.dev/dashboard)&nbsp;
+[![repo](https://img.shields.io/badge/repo-RPCForge-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/RPCForge)
 
 ---
 
-<br/>
-
-## 02 — Web3 Projects
-
-<br/>
-
-### 🔐 ZenProof &nbsp;·&nbsp; *Privacy-Preserving Trust Infrastructure*
+```bash
+$ cat ~/projects/web3/ZenProof/README.md
+```
 
 > Your credentials. Your proofs. Zero surveillance. Built the decentralized version before the big players did.
 
 ```
   you
-   │  claim: "I built X"
+   │  claim: "I built X" / "I have this degree" / "I contributed here"
    ▼
-  ┌──────────────────────────────────────────────────────┐
-  │                  ZenProof Trust Layer                │
-  │                                                      │
-  │   ZK-SNARK proof gen  (Semaphore circuit)            │
-  │   W3C DID — portable, chain-agnostic identity        │
-  │   IPFS-pinned credential store — censorship-proof    │
-  │   ProofHire integration — coming soon                │
-  └──────────────────────────────────────────────────────┘
+  ┌────────────────────────────────────────────────────────┐
+  │                  ZenProof Trust Layer                  │
+  │                                                        │
+  │   ZK-SNARK proof gen  →  Semaphore circuit             │
+  │   W3C DID identity    →  portable · chain-agnostic     │
+  │   IPFS credential     →  censorship-resistant          │
+  │   ProofHire (soon)    →  AI proof-of-skill hiring      │
+  └────────────────────────────────────────────────────────┘
    │
    ▼
   verifier receives:  ✅ or ❌   (nothing else leaks)
 ```
 
-`ZK-SNARKs` `Semaphore` `W3C DIDs` `IPFS` `TypeScript` `Ethereum`
+```bash
+stack      →  ZK-SNARKs · Semaphore · W3C DIDs · IPFS · TypeScript · Ethereum
+research   →  zenproof-research.hashnode.dev
+roadmap    →  ProofHire — AI proof-of-skill hiring network
+paper      →  IEEE-style ZK credential architecture · ZenProof V1
+```
 
-[![Research Blog](https://img.shields.io/badge/Research-zenproof--research.hashnode.dev-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://zenproof-research.hashnode.dev/)
-[![Repo](https://img.shields.io/badge/GitHub-ZenProof-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/ZenProof-)
+[![research](https://img.shields.io/badge/research-zenproof--research.hashnode.dev-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://zenproof-research.hashnode.dev/)&nbsp;
+[![repo](https://img.shields.io/badge/repo-ZenProof-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/ZenProof-)
 
-<br/>
+---
 
-### 🟠 OnTrade &nbsp;·&nbsp; *n8n-style On-Chain Automation*
-
-> Build crypto trading strategies with visual blocks. No backend. No middlemen. Just strategy → compile → chain.
-
-- Visual workflow builder — price triggers, indicators, AI reasoning nodes, sentiment checks
-- On-chain execution — trustless, transparent, unstoppable
-- No centralized servers, ever
-
-`TypeScript` `n8n-inspired` `On-chain execution`
-
-[![Repo](https://img.shields.io/badge/GitHub-Ontrade--Chain-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/Ontrade-Chain)
-
-<br/>
-
-### 🟡 ChainSplit &nbsp;·&nbsp; *Decentralized Bill Splitting on Cronos EVM*
+```bash
+$ cat ~/projects/web3/ChainSplit/README.md
+```
 
 > Split bills. Settle debts. On-chain. No middlemen. No trust issues. Just code.
 
-- Factory + GroupVault architecture — each group gets its own contract, no shared custody
-- Greedy debt-minimization algorithm for optimal on-chain settlements
-- Custom `nonReentrant` guard · `onlyAdmin/onlyMember` access control
-- IPFS metadata via Pinata · RainbowKit + WalletConnect v2
-
+```bash
+pattern  →  Factory + GroupVault — each group gets its own contract, no shared custody
+algo     →  greedy debt-minimization for optimal on-chain settlements
+guards   →  custom nonReentrant · onlyAdmin/onlyMember access control
+ipfs     →  metadata via Pinata · RainbowKit + WalletConnect v2
+address  →  0xe9256300bb409b5Cf8CF16aDD6A0aDB0cc72E5bf  (Cronos Testnet · Chain 338)
+stack    →  Solidity 0.8.24 · React 18 · Wagmi v2 · MongoDB
 ```
-Factory: 0xe9256300bb409b5Cf8CF16aDD6A0aDB0cc72E5bf  (Cronos Testnet · Chain 338)
+
+[![live](https://img.shields.io/badge/live-chainsplit.vercel.app-a3e635?style=flat-square&logo=vercel&logoColor=black)](https://chainsplit.vercel.app)&nbsp;
+[![repo](https://img.shields.io/badge/repo-ChainSplit-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/ChainSplit)
+
+---
+
+```bash
+$ cat ~/projects/web3/OnTrade/README.md
 ```
 
-`Solidity 0.8.24` `React 18` `Wagmi v2` `MongoDB`
+> n8n for on-chain logic. Build crypto strategies with visual blocks — no backend, no middlemen. Strategy → compile → chain.
 
-[![Live](https://img.shields.io/badge/Live-chainsplit.vercel.app-646cf2?style=flat-square&logo=vercel)](https://chainsplit.vercel.app)
-[![Repo](https://img.shields.io/badge/GitHub-ChainSplit-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/ChainSplit)
+```bash
+nodes   →  price triggers · indicators · AI reasoning · sentiment checks
+model   →  no centralized servers, pure on-chain execution
+stack   →  TypeScript · n8n-inspired visual builder
+```
 
-<br/>
+[![repo](https://img.shields.io/badge/repo-Ontrade--Chain-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/Ontrade-Chain)
 
-### 🟢 Credora &nbsp;·&nbsp; *Enterprise Credential Platform on Hyperledger Fabric*
+---
+
+```bash
+$ cat ~/projects/web3/Credora/README.md
+```
 
 > Real-world credentials — degrees, certs, DAO badges — turned into Verifiable Credentials. Prove things without revealing everything.
 
-- ZK privacy layer · Dual-layer auth (MetaMask + X.509 MSP for institutions)
-- AI-powered fraud detection on credential submissions
-- Submitted to **Blockchain India Challenge 2024 (MeitY)**
+```bash
+auth    →  MetaMask + X.509 MSP dual layer
+fraud   →  AI-powered detection on credential submissions
+submit  →  Blockchain India Challenge 2024 (MeitY) 🇮🇳
+stack   →  Hyperledger Fabric 2.5 · Golang chaincode · ZK privacy layer
+```
 
-`Hyperledger Fabric 2.5` `Golang` `ZK` `TypeScript`
-
-[![Live](https://img.shields.io/badge/Live-credora--veripass.netlify.app-00C7B7?style=flat-square&logo=netlify)](https://credora-veripass.netlify.app)
-[![Repo](https://img.shields.io/badge/GitHub-Credora_Digital-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/Credora_Digital)
-
-<br/>
-
-### 🔮 Aptos Prediction Market &nbsp;·&nbsp; *FinBERT Sentiment Oracle*
-
-> Commit-reveal prediction market on Aptos with a HuggingFace FinBERT NLP oracle feeding real market signals.
-
-- MEV-resistant commit-reveal scheme for fair outcome resolution
-- Real NLP sentiment analysis as a market signal feed
-- Move smart contracts · Petra wallet integration
-
-`Move` `Next.js` `HuggingFace FinBERT` `Aptos`
-
-[![Repo](https://img.shields.io/badge/GitHub-panana--predictions-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/panana-predictions)
-
-<br/>
-
-### 🛡️ AI Smart Contract Auditor &nbsp;·&nbsp; *Production Security Tool*
-
-> Detects Solidity vulnerabilities, scores contract security, auto-generates fixed code — under 2 seconds, no API keys required. Built for NodeOps × CreateOS contest.
-
-`TypeScript` `CreateOS Skills` `AI` `Solidity`
-
-[![Repo](https://img.shields.io/badge/GitHub-AI--ContractAuditor-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/AI-ContractAuditor)
-
-<br/>
-
-### 📱 CryptoWallet &nbsp;·&nbsp; *Institutional-Grade Mobile Ethereum Wallet*
-
-> AES-256 seed phrase encryption, live portfolio charts, native Send/Receive/Swap — ships as Android APK.
-
-`React Native` `Ethers.js v5` `AES-256`
-
-[![Repo](https://img.shields.io/badge/GitHub-CryptoWallet-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/CryptoWallet)
-
-<br/>
+[![live](https://img.shields.io/badge/live-credora--veripass.netlify.app-a3e635?style=flat-square&logo=netlify&logoColor=black)](https://credora-veripass.netlify.app)&nbsp;
+[![repo](https://img.shields.io/badge/repo-Credora_Digital-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/Credora_Digital)
 
 ---
 
-<br/>
+```bash
+$ cat ~/projects/web3/AptosMarket/README.md
+```
 
-## 03 — Web2 Projects
+> Commit-reveal prediction market on Aptos with HuggingFace FinBERT NLP oracle feeding real market signals.
 
-<br/>
+```bash
+oracle  →  HuggingFace FinBERT — real NLP sentiment as a market signal feed
+pattern →  commit-reveal scheme — MEV-resistant, fair outcome resolution
+stack   →  Move smart contracts · Next.js · Petra wallet integration
+```
 
-### 🎓 Campus Aid Buddy &nbsp;·&nbsp; *Gemini RAG-Powered Campus Assistant*
+[![repo](https://img.shields.io/badge/repo-panana--predictions-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/panana-predictions)
 
-> 4-role campus system (Student · Faculty · Admin · Visitor) with Gemini-powered RAG assistant. Built for Tech Masters '26 — **won**. 🏆
+---
 
-`React` `Firebase` `Gemini AI` `RAG`
+```bash
+$ cat ~/projects/web3/AI-ContractAuditor/README.md
+```
 
-[![Repo](https://img.shields.io/badge/GitHub-Campus_Aid_buddy-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/Campus_Aid_buddy)
+> Production-ready AI-native smart contract security auditor. Detects Solidity vulnerabilities, scores security, auto-generates fixed code — under 2 seconds, no API keys required. Built for NodeOps × CreateOS contest.
 
-<br/>
+```bash
+input   →  any Solidity contract
+output  →  vulnerability report · severity score · patched contract
+speed   →  < 2 seconds
+stack   →  TypeScript · CreateOS Skills · AI
+```
 
-### 🏠 VibeStay &nbsp;·&nbsp; *Vibe-Driven Stay Booking Platform*
+[![repo](https://img.shields.io/badge/repo-AI--ContractAuditor-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/AI-ContractAuditor)
+
+---
+
+```bash
+$ cat ~/projects/web3/CryptoWallet/README.md
+```
+
+> Institutional-grade non-custodial mobile Ethereum wallet. AES-256 seed phrase encryption, live portfolio charts, native Send/Receive/Swap — ships as Android APK.
+
+```bash
+security  →  AES-256 seed phrase encryption
+features  →  live portfolio charts · Send · Receive · Swap
+stack     →  React Native · Ethers.js v5
+output    →  Android APK
+```
+
+[![repo](https://img.shields.io/badge/repo-CryptoWallet-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/CryptoWallet)
+
+---
+
+```bash
+$ cat ~/projects/web2/CampusAidBuddy/README.md
+```
+
+> 4-role campus system (Student · Faculty · Admin · Visitor) with Gemini-powered RAG assistant. Built for Tech Masters '26 — won. 🏆
+
+```bash
+roles   →  Student · Faculty · Admin · Visitor
+ai      →  Gemini-powered RAG assistant
+stack   →  React · Firebase · Gemini AI
+result  →  Tech Masters '26 — Winner 🏆
+```
+
+[![repo](https://img.shields.io/badge/repo-Campus_Aid_buddy-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/Campus_Aid_buddy)
+
+---
+
+```bash
+$ cat ~/projects/web2/VibeStay/README.md
+```
 
 > Filter stays by mood and aesthetic — not just location. AI speech recognition + vibe-based recommendations.
 
-`JavaScript` `Speech Recognition` `AI recommendations`
+```bash
+filter  →  by mood, aesthetic, vibe — not just location
+ai      →  speech recognition · vibe-based recommendations
+stack   →  JavaScript · AI
+```
 
-[![Live](https://img.shields.io/badge/Live-vibestayy.netlify.app-00C7B7?style=flat-square&logo=netlify)](https://vibestayy.netlify.app/)
-[![Repo](https://img.shields.io/badge/GitHub-Vibe_Stay-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/Vibe_Stay)
-
-<br/>
-
----
-
-<br/>
-
-## 04 — Open Source
-
-> I don't just star repos. I actually ship PRs.
-
-| Project | Contribution | Status |
-|---|---|:---:|
-| 🔷 **OpenZeppelin Contracts Wizard** | [PR #782](https://github.com/OpenZeppelin/contracts-wizard/pull/782) — Fixed `yarn classic v1.x` install docs | ✅ Merged |
-| 🏗️ **Scaffold-ETH 2** | Made `contractAddress` optional in `useScaffoldReadContract` — reduced boilerplate | ✅ Shipped |
-| 🍌 **Panana Predictions (Aptos)** | Added HuggingFace FinBERT NLP sentiment oracle to prediction market | ✅ Shipped |
-
-<br/>
+[![live](https://img.shields.io/badge/live-vibestayy.netlify.app-a3e635?style=flat-square&logo=netlify&logoColor=black)](https://vibestayy.netlify.app/)&nbsp;
+[![repo](https://img.shields.io/badge/repo-Vibe_Stay-181717?style=flat-square&logo=github)](https://github.com/0xMayurrr/Vibe_Stay)
 
 ---
 
-<br/>
+```bash
+$ git log --oneline --author="0xMayurrr" --all --oss-only
+```
 
-## 05 — Research & Writing
-
-| | |
-|---|---|
-| 📓 **ZenProof Research Blog** | Deep dives on ZK-SNARKs, W3C DIDs, and Privacy-Preserving Trust Infrastructure |
-| 📄 **IEEE-style Paper** | ZenProof V1 — Decentralized ZK Credential System Architecture |
-
-[![Read on Hashnode](https://img.shields.io/badge/Read-zenproof--research.hashnode.dev-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://zenproof-research.hashnode.dev/)
-
-<br/>
+```
+✅ merged   OpenZeppelin/contracts-wizard    PR #782 — fixed yarn classic v1.x install docs
+✅ shipped  scaffold-eth-2                   contractAddress optional in useScaffoldReadContract
+✅ shipped  panana-predictions (Aptos)       HuggingFace FinBERT NLP sentiment oracle integration
+```
 
 ---
 
-<br/>
+```bash
+$ cat ~/research/publications.md
+```
 
-## 06 — Hackathons & Wins
+```
+📓  ZenProof Research Blog
+    url    →  zenproof-research.hashnode.dev
+    topics →  ZK-SNARKs · W3C DIDs · Privacy-Preserving Trust Infrastructure
 
-| Event | Result |
-|---|---|
-| 🏆 **Tech Masters '26** | Winner |
-| 🏆 **RAC-A-THON** | Winner |
-| 🥈 **Google Developer Hackathon** | Runner Up |
-| 🎯 **HACKTU 6.0** | Finalist |
-| 🎯 **WE Hack** | Top 6 |
-| 🎯 **Hack N Win 2.0** | Finalist |
-| 🎯 **Deep Funding Round** | Top 5 |
-| 🎯 **Build on Aptos** | Finalist |
-| 🎯 **Pivot Hackathon** | Finalist |
-| 🛠️ **Hack Beyond The Limits** | Technical Organizer — 24h national hackathon |
-| 🧑‍🏫 **Smart India Hackathon** | Team Mentor |
-| 📌 **Future Interns** | Blockchain & Crypto Internship |
+📄  IEEE-style Paper
+    title  →  ZenProof V1: Decentralized ZK Credential System Architecture
+    stack  →  ZK-SNARK + W3C DID + IPFS
+```
 
-<br/>
+[![read on hashnode](https://img.shields.io/badge/read-zenproof--research.hashnode.dev-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://zenproof-research.hashnode.dev/)
 
 ---
 
-<br/>
+```bash
+$ cat ~/wins.log
+```
 
-## 07 — Stack
-
-<div align="center">
-
-**Blockchain & Contracts**
-
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Move](https://img.shields.io/badge/Move-4A90E2?style=flat-square)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square)
-![Wagmi](https://img.shields.io/badge/Wagmi-1C1C1C?style=flat-square)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat-square&logo=openzeppelin&logoColor=white)
-![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=flat-square&logo=hyperledger&logoColor=white)
-
-**ZK & Decentralized Identity**
-
-![ZK-SNARKs](https://img.shields.io/badge/ZK--SNARKs-6467f2?style=flat-square)
-![Semaphore](https://img.shields.io/badge/Semaphore-111?style=flat-square)
-![W3C DIDs](https://img.shields.io/badge/W3C_DIDs-005A9C?style=flat-square)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white)
-
-**Multi-Chain**
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=flat-square&logo=polygon&logoColor=white)
-![Arbitrum](https://img.shields.io/badge/Arbitrum-28A0F0?style=flat-square)
-![BNB Chain](https://img.shields.io/badge/BNB_Chain-F0B90B?style=flat-square&logo=binance&logoColor=black)
-![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square)
-![Cronos](https://img.shields.io/badge/Cronos_EVM-002D74?style=flat-square)
-![Aptos](https://img.shields.io/badge/Aptos-000?style=flat-square)
-
-**Languages & Full Stack**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-**Infra & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-**Vibe Stack**
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square)
-![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
-<br/>
+```
+🏆  Tech Masters '26              Winner
+🏆  RAC-A-THON                    Winner
+🥈  Google Developer Hackathon    Runner Up
+🎯  HACKTU 6.0                    Finalist
+🎯  WE Hack                       Top 6
+🎯  Hack N Win 2.0                Finalist
+🎯  Deep Funding Round            Top 5
+🎯  Build on Aptos                Finalist
+🎯  Pivot Hackathon               Finalist
+🛠️  Hack Beyond The Limits        Technical Organizer · 24h national hackathon
+🧑‍🏫  Smart India Hackathon         Team Mentor
+📌  Future Interns                Blockchain & Crypto Internship
+```
 
 ---
 
-<br/>
+```bash
+$ cat ~/.stack
+```
 
-## 08 — Stats
+```
+[blockchain & contracts]
+Solidity · Move · Hardhat · Ethers.js · Wagmi · OpenZeppelin · Hyperledger Fabric
+
+[zk & decentralized identity]
+ZK-SNARKs · Semaphore · W3C DIDs · IPFS
+
+[multi-chain]
+Ethereum · Polygon · Arbitrum · BNB Chain · Base · Cronos EVM · Aptos
+
+[languages & fullstack]
+TypeScript · JavaScript · Python · Go · React · Next.js · Node.js
+
+[infra & tools]
+Docker · PostgreSQL · MongoDB · Supabase · Railway · Vercel · Stripe
+
+[vibe stack]
+Claude Code · Cursor · GitHub Copilot
+```
+
+---
+
+```bash
+$ gh stats --user 0xMayurrr
+```
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xMayurrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a3e635&icon_color=a3e635&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xMayurrr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a3e635&text_color=c9d1d9&langs_count=8" />
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xMayurrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a3e635&icon_color=a3e635&text_color=c9d1d9" />
+<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xMayurrr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a3e635&text_color=c9d1d9&langs_count=8" />
 </p>
 
 <p align="center">
@@ -416,13 +422,11 @@ Factory: 0xe9256300bb409b5Cf8CF16aDD6A0aDB0cc72E5bf  (Cronos Testnet · Chain 33
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xMayurrr&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a3e635&line=4d7c0f&point=a3e635" />
 </p>
 
-<br/>
-
 ---
 
-<br/>
-
-## 🐍 &nbsp;Contribution Snake
+```bash
+$ snake --dark-mode --user 0xMayurrr
+```
 
 <div align="center">
 
@@ -430,37 +434,42 @@ Factory: 0xe9256300bb409b5Cf8CF16aDD6A0aDB0cc72E5bf  (Cronos Testnet · Chain 33
 
 </div>
 
-<br/>
-
 ---
 
-<br/>
+```bash
+$ echo "looking for remote Web3 roles — smart contract dev, protocol engineering,"
+$ echo "infra, devrel. open to relocation. if you're building on-chain and need"
+$ echo "someone who moves fast and thinks in primitives — let's talk."
+$ open --links
+```
 
-## Let's Build
-
-> I'm actively looking for **remote Web3 roles** — smart contract dev, protocol engineering, full-stack dApp, infra, DevRel. Open to relocation. If you're shipping something on-chain and need someone who moves fast and thinks in primitives — let's talk.
+```
+portfolio  →  mayurworks.vercel.app
+linkedin   →  linkedin.com/in/mayurp03
+x          →  x.com/0xMayurrr
+research   →  zenproof-research.hashnode.dev
+email      →  mayurkarthick2006@gmail.com
+superteam  →  earn.superteam.fun
+```
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-mayurworks.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://mayurworks.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurp03/)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xMayurrr)
-[![Research Blog](https://img.shields.io/badge/Research_Blog-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://zenproof-research.hashnode.dev/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurkarthick2006@gmail.com)
-[![Superteam](https://img.shields.io/badge/Superteam_Earn-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://earn.superteam.fun)
+[![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=vercel&logoColor=a3e635)](https://mayurworks.vercel.app/)&nbsp;
+[![linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurp03/)&nbsp;
+[![x](https://img.shields.io/badge/x-000?style=for-the-badge&logo=x&logoColor=a3e635)](https://x.com/0xMayurrr)&nbsp;
+[![research](https://img.shields.io/badge/research-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://zenproof-research.hashnode.dev/)&nbsp;
+[![email](https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayurkarthick2006@gmail.com)&nbsp;
+[![superteam](https://img.shields.io/badge/superteam-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://earn.superteam.fun)
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=100&section=footer" width="100%"/>
-
-*"The chain doesn't lie. Neither does the commit history."*
-
-**Built different. Shipped real. Researched deep. On-chain always. ⚡**
+```
+# the chain doesn't lie.
+# neither does the commit history.
+```
 
 </div>
