@@ -20,11 +20,6 @@
 
 ---
 
-**BSc Computer Technology — Blockchain & Distributed Computing · Rathinam University, Tamil Nadu · 2026**
-
-Final-year student shipping production Web3 infra. I build smart contracts, ZK identity systems, and SaaS products — not just for portfolios, but for real users. 10+ hackathon wins, merged OSS contributions, and a live SaaS product on Product Hunt. Actively looking for remote Web3 roles. Open to relocation.
-
----
 
 ## Projects
 
