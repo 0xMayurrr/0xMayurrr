@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:111827,100:0d1117&text=Mayur%20P.&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Web3%20Developer%20%7C%20Smart%20Contract%20Engineer&descSize=18&descColor=d1d5db&descAlignY=60" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:111827,100:0d1117&text=Mayur%20P&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Web3%20Developer%20%7C%20Smart%20Contract%20Engineer&descSize=18&descColor=d1d5db&descAlignY=60" width="100%" />
 </p>
 
 <br/>
@@ -45,8 +45,6 @@ ZK-SNARK based credential system using W3C DIDs and IPFS. Prove credentials with
 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=zksync" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=semaphore" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=w3c" height="40"/>
   <img src="https://skillicons.dev/icons?i=ipfs" height="40"/>
   <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
   <img src="https://skillicons.dev/icons?i=ethereum" height="40"/>
@@ -60,7 +58,7 @@ Factory + GroupVault contract architecture on Cronos EVM. Each group gets its ow
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=solidity" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=wagmi" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ethers" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" height="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
 </p>
@@ -74,7 +72,6 @@ Verifiable Credentials on Hyperledger Fabric. Dual-layer auth (MetaMask + X.509 
 <p align="left">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=hyperledger" height="40"/>
   <img src="https://skillicons.dev/icons?i=go" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=zeroknowledge" height="40"/>
 </p>
 
 ---
@@ -85,7 +82,7 @@ n8n-style visual workflow builder for crypto trading strategies. Price triggers,
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ai" height="40"/>
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="40"/>
   <img src="https://skillicons.dev/icons?i=ethereum" height="40"/>
 </p>
 
@@ -96,7 +93,7 @@ n8n-style visual workflow builder for crypto trading strategies. Price triggers,
 Commit-reveal prediction market on Aptos with a HuggingFace FinBERT NLP oracle for MEV-resistant, sentiment-driven outcome resolution.
 
 <p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=aptos" height="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=move" height="40"/>
   <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="40"/>
 </p>
@@ -110,7 +107,7 @@ Detects Solidity vulnerabilities, scores contract security, and auto-generates p
 <p align="left">
   <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
   <img src="https://skillicons.dev/icons?i=solidity" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai" height="40"/>
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="40"/>
 </p>
 
 ---
@@ -133,9 +130,9 @@ Filters stays by mood and aesthetic using AI speech recognition and vibe-based r
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=openai" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="40"/>
+  <img src="https://cdn.simpleicons.org/google" height="40"/>
 </p>
-
 ---
 
 ## Open Source
@@ -178,9 +175,9 @@ Smart Contracts • Account Abstraction • DeFi • RPC Infrastructure • Web3
 <p align="left">
   <img src="https://skillicons.dev/icons?i=solidity" height="42" title="Solidity"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" height="42" title="Hardhat"/>
-  <img src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" height="42" title="Ethers.js"/>
-  <img src="https://wagmi.sh/icon-dark.png" height="42" title="Wagmi"/>
-  <img src="https://avatars.githubusercontent.com/u/54212428?s=200&v=4" height="42" title="OpenZeppelin"/>
+  <img src="https://cdn.simpleicons.org/ethers" height="42" title="Ethers.js"/>
+  <img src="https://cdn.simpleicons.org/ethereum" height="42" title="Wagmi"/>
+  <img src="https://cdn.simpleicons.org/openzeppelin" height="42" title="OpenZeppelin"/>
   <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" height="42" title="Hyperledger Fabric"/>
 </p>
 
@@ -205,8 +202,8 @@ Smart Contracts • Account Abstraction • DeFi • RPC Infrastructure • Web3
   <img src="https://cryptologos.cc/logos/polygon-matic-logo.png?v=040" height="42" title="Polygon"/>
   <img src="https://cryptologos.cc/logos/arbitrum-arb-logo.png?v=040" height="42" title="Arbitrum"/>
   <img src="https://cryptologos.cc/logos/bnb-bnb-logo.png?v=040" height="42" title="BNB Chain"/>
-  <img src="https://avatars.githubusercontent.com/u/108554348?s=200&v=4" height="42" title="Base"/>
-  <img src="https://cryptologos.cc/logos/cronos-cro-logo.png?v=040" height="42" title="Cronos"/>
+  <img src="https://cdn.simpleicons.org/base" height="42" title="Base"/>
+  <img src="https://cdn.simpleicons.org/cronos" height="42" title="Cronos"/>
   <img src="https://cryptologos.cc/logos/aptos-apt-logo.png?v=040" height="42" title="Aptos"/>
   <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=040" height="42" title="Solana"/>
 </p>
@@ -279,7 +276,7 @@ Looking for remote Web3 roles — smart contract dev, protocol engineering, infr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurp03/)&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xMayurrr)&nbsp;
 [![Research](https://img.shields.io/badge/Research-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://zenproof-research.hashnode.dev/)&nbsp;
-[![Superteam](https://img.shields.io/badge/Superteam-9945FF?style=for-the-badge&logo=solana&logoColor=white)](https://earn.superteam.fun)
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:111827&height=80&section=footer" width="100%"/>
 
