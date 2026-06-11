@@ -39,7 +39,7 @@ The open-source alternative to Alchemy and Infura with a hosted SaaS tier. API k
 
 ---
 
-**ZenProof** — Privacy-Preserving Trust Infrastructure · [Research on Hashnode](https://zenproof-research.hashnode.dev/)
+**ZenProof** — Privacy-Preserving Trust Infrastructure · [Research on dev.to](https://dev.to/0xmayur_p/beyond-identity-rethinking-trust-infrastructure-through-zero-knowledge-verification-10d)
 
 ZK-SNARK based credential system using W3C DIDs and IPFS. Prove credentials without leaking identity. Published IEEE-style architecture paper. Roadmap product: ProofHire — an AI proof-of-skill hiring network.
 
