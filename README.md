@@ -1,19 +1,32 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=MAYUR%20P&fontSize=60&height=120&desc=Web3%20Infrastructure%20Engineer%20%7C%20Distributed%20Systems%20and%20Cryptography&descAlignY=75&descSize=18&descColor=8b949e" width="100%"/>
-</p>
+<div align="center">
+
+# ⚡ MAYUR P
+### `Web3 Infrastructure Engineer` & `Cryptographic Systems Builder`
+
+```http
+GET /api/v1/engineer/status HTTP/1.1
+Host: mayur.works
+---
+HTTP/1.1 200 OK
+Server: Web3-Infra-Node/2.0
+X-Current-Role: Web3 SDE Intern
+X-Venture: Co-founder & Technical Lead @ Buildicy
+X-Core-Focus: Distributed Consensus, RPC Gateways, ZK-SNARKs, EVM Topologies
+X-Status: Actively Shipping 🚀
+```
 
 <p align="center">
-  <a href="https://mayurworks.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-mayurworks.vercel.app-00D9FF?style=flat-square&logo=vercel&logoColor=black&labelColor=ffffff"/></a>
-  <a href="https://www.linkedin.com/in/mayurp03/"><img src="https://img.shields.io/badge/LinkedIn-mayurp03-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/0xMayurrr"><img src="https://img.shields.io/badge/X-@0xMayurrr-000000?style=flat-square&logo=x&logoColor=white"/></a>
-  <a href="https://coderlegion.com/20276/beyond-identity-rethinking-trust-infrastructure-through-zero-knowledge-verification"><img src="https://img.shields.io/badge/Research-CoderLegion-2962FF?style=flat-square&logo=hashnode&logoColor=white"/></a>
-  <a href="https://buildicy.com"><img src="https://img.shields.io/badge/Co--founder-Buildicy.com-00D9FF?style=flat-square&labelColor=161b22"/></a>
-  <a href="mailto:mayurkarthick2006@gmail.com"><img src="https://img.shields.io/badge/Email-mayurkarthick2006%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://mayurworks.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=ffffff"/></a>
+  <a href="https://www.linkedin.com/in/mayurp03/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/0xMayurrr"><img src="https://img.shields.io/badge/X-@0xMayurrr-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://coderlegion.com/20276/beyond-identity-rethinking-trust-infrastructure-through-zero-knowledge-verification"><img src="https://img.shields.io/badge/Research-Published-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://buildicy.com"><img src="https://img.shields.io/badge/Buildicy-Co--founder-00D9FF?style=for-the-badge&labelColor=161b22"/></a>
+  <a href="mailto:mayurkarthick2006@gmail.com"><img src="https://img.shields.io/badge/Email-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xMayurrr&label=Telemetry%20Views&color=00D9FF&style=flat-square"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=0xMayurrr&label=Telemetry%20Views&color=00D9FF&style=for-the-badge"/>
+
+</div>
 
 ---
 
@@ -201,10 +214,10 @@ At **[Buildicy](https://buildicy.com)**, I spearhead the Web3 internship program
 
 ---
 
-### `> System Status`
+### `> Operational Status`
 
 ```rust
-fn current_status() -> StatusReport {
+fn get_system_status() -> StatusReport {
     StatusReport {
         status: "Actively Shipping",
         open_to: [
