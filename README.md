@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ MAYUR P
+# MAYUR P
 ### `Web3 Infrastructure Engineer` & `Cryptographic Systems Builder`
 
 ```http
