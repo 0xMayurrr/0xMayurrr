@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=MAYUR%20P&fontSize=58&fontColor=00D9FF&desc=Web3%20Infrastructure%20Engineer%20%7C%20Distributed%20Systems%20%26%20Cryptography&descSize=18&descColor=8b949e&descAlignY=74&fontAlignY=42" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=MAYUR%20P&fontSize=60&height=120&desc=Web3%20Infrastructure%20Engineer%20%7C%20Distributed%20Systems%20%26%20Cryptography&descAlignY=75&descSize=18&descColor=8b949e" width="100%"/>
 </p>
 
 <p align="center">
@@ -13,106 +13,144 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xMayurrr&label=Telemetry%20Views&color=00D9FF&style=flat-square"/>
-  <img src="https://img.shields.io/github/followers/0xMayurrr?label=Followers&style=flat-square&color=00D9FF"/>
 </p>
 
 ---
 
-### `$ cat engineering_profile.json`
+## 💻 Systems Dashboard
 
-```json
-{
-  "engineer": {
-    "name": "Mayur P",
-    "specialization": "Web3 Infrastructure & Cryptographic Protocols",
-    "philosophy": "Don't build wrappers. Build the low-level caching, routing, and trust infrastructure underneath them.",
-    "current_roles": [
-      {
-        "position": "Web3 SDE Intern",
-        "focus": "Distributed consensus, backend optimization, and protocol integration"
-      },
-      {
-        "position": "Co-founder & Technical Lead",
-        "company": "Buildicy.com",
-        "focus": "Custom blockchain client architecture, smart contract audits, and mentoring developers"
-      }
-    ],
-    "core_competencies": {
-      "distributed_systems": ["RPC proxies", "Sub-millisecond failover routing", "Load balancing"],
-      "cryptography_identity": ["ZK-SNARKs", "W3C Decentralized Identifiers (DIDs)", "Verifiable credentials"],
-      "smart_contracts": ["EVM factory-vault patterns", "Sui/Aptos Move resource modeling", "Security auditing"]
-    }
-  }
-}
-```
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Active Trajectory</h3>
+      <ul>
+        <li><b>Web3 SDE Intern</b>: Focus on distributed consensus, node architecture, and high-performance smart contract integrations.</li>
+        <li><b>Co-founder @ <a href="https://buildicy.com">Buildicy</a></b>: Lead technical delivery, conduct contract audits, and manage our incubator program.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Core Focus</h3>
+      <ul>
+        <li><b>Distributed Systems</b>: High-throughput RPC gateways, sub-millisecond node failover, token-bucket rate-limiting.</li>
+        <li><b>Cryptography & Identity</b>: zk-SNARK proof circuits, W3C Decentralized Identifiers (DIDs), IPFS data schemas.</li>
+        <li><b>EVM & Resource Topologies</b>: Non-custodial factory vault patterns, gas-optimized state structures (Solidity / Move).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🏗️ Technical Leadership & Management
+## ⚙️ Flagship Infrastructure
 
-### **Co-founder & Technical Lead · [Buildicy](https://buildicy.com)**
-*Building and scaling custom Web3 solutions for global clients while nurturing the next generation of engineers.*
-
-*   **Engineering Delivery**: Architect and audit smart contracts, custom RPC setups, and decentralized integration layers for blockchain-related client applications.
-*   **Developer Incubator**: Built and manage Buildicy's Web3 internship program from the ground up.
-    *   Designed specialized training tracks covering EVM execution mechanics, ZK structures, and secure systems design.
-    *   Mentor 10+ students, coordinating internal PR reviews, code standards, and agile sprint planning.
-    *   Transitioned student developers from basic dApp prototyping to writing production-ready, gas-optimized, audited code.
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="28%">System</th>
+      <th align="left" width="22%">Stack / Tooling</th>
+      <th align="left" width="50%">Systems & Engineering Highlight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>RPCForge</b><br/>
+        <sub>High-Availability Gateway</sub><br/>
+        <a href="https://rpcforge.dev"><code>rpcforge.dev</code></a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+      </td>
+      <td>
+        • Engineered a multi-tenant RPC proxy layer routing for Ethereum, Polygon, BSC, and Arbitrum.<br/>
+        • Implemented real-time token-bucket rate limiting and automatic sub-millisecond failover mechanisms.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>ZenProof</b><br/>
+        <sub>ZK Identity Protocol</sub><br/>
+        <a href="https://coderlegion.com/20276/beyond-identity-rethinking-trust-infrastructure-through-zero-knowledge-verification"><code>Research Paper</code></a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/zk--SNARKs-6B46C1?style=flat-square"/><br/>
+        <img src="https://img.shields.io/badge/W3C_DIDs-6B46C1?style=flat-square"/><br/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+      </td>
+      <td>
+        • Built zero-knowledge credential verification circuits enabling decentralized trust without raw data exposure.<br/>
+        • Published the formal IEEE-style privacy-preserving trust infrastructure architecture paper.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>ChainSplit</b><br/>
+        <sub>Vault Settlement Engine</sub><br/>
+        <a href="https://chainsplit.vercel.app"><code>chainsplit.vercel.app</code></a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square"/><br/>
+        <img src="https://img.shields.io/badge/Cronos-002D74?style=flat-square"/>
+      </td>
+      <td>
+        • Architected a non-custodial factory vault pattern, removing pooled-funds custody risks entirely.<br/>
+        • Programmed an on-chain greedy debt-minimization algorithm, reducing transactional load by 45%.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>OnTrade</b><br/>
+        <sub>On-Chain Compiler</sub>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+      </td>
+      <td>
+        • Designed an engine compiling visual logic nodes into executable on-chain bytecode, removing backend dependencies.<br/>
+        • Bound AI routing nodes to dynamically evaluate market conditions prior to state execution.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Credora</b><br/>
+        <sub>Enterprise Access Portal</sub><br/>
+        <a href="https://credora-veripass.netlify.app"><code>veripass.netlify.app</code></a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+      </td>
+      <td>
+        • Structured an identity validation system for the Blockchain India Challenge (MeitY).<br/>
+        • Implemented MetaMask + X.509 Membership Service Provider (MSP) double authentication layers.
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## 🔬 Flagship Infrastructure — Production-Level Builds
+## 👨‍🏫 Mentorship & Technical Leadership
 
-### ⚙️ **RPCForge** — High-Availability Multi-Chain RPC Gateway
-> **Production SaaS** · [rpcforge.dev](https://rpcforge.dev) · [Product Hunt Launch](https://www.producthunt.com/@0xmayurrr)
-
-A self-hostable, multi-tenant RPC routing proxy designed as a high-performance alternative to centralized gateway services.
-*   **Infrastructure**: Built a node-routing and caching layer supporting Ethereum, Polygon, BSC, and Arbitrum.
-*   **Systems Engineering**: Implemented real-time token-bucket rate limiting, automatic sub-millisecond node failover, and telemetry analytics dashboard.
-*   **Monetization**: Integrated Stripe billing for tiered subscription levels (Free → $9 → $29 → $99/mo).
-*   **Stack**: `Node.js` · `Express` · `React` · `Supabase` · `Docker` · `Stripe`
-
-### 🧠 **ZenProof** — Privacy-Preserving Trust & Identity Protocol
-> **Research & Implementation** · [Published Architecture Paper](https://coderlegion.com/20276/beyond-identity-rethinking-trust-infrastructure-through-zero-knowledge-verification)
-
-Zero-knowledge verification system for secure identity management, eliminating third-party trust requirements.
-*   **Cryptography**: Created ZK-SNARK verification circuits bound to W3C Decentralized Identifiers (DIDs) and IPFS metadata.
-*   **Guarantees**: Allows users to cryptographically verify attributes (e.g., citizenship, skill level) without exposing raw data.
-*   **Publication**: Authored and published the formal IEEE-style architecture paper on distributed credential verification.
-*   **Stack**: `zk-SNARKs` · `IPFS` · `TypeScript` · `Solidity` · `zkSync`
-
-### 🔀 **ChainSplit** — Non-Custodial Multi-Vault Settlement Engine
-> **Smart Contract Architecture** · [Live Application](https://chainsplit.vercel.app)
-
-A decentralized bill-splitting and debt-minimization engine operating on Cronos EVM.
-*   **Smart Contracts**: Structured using a factory pattern deploying isolated `GroupVault` contracts to ensure zero pooled-fund custody risks.
-*   **Algorithmic Optimization**: Designed a greedy debt-minimization algorithm implemented on-chain to reduce settlement transactions by up to 45%.
-*   **Stack**: `Solidity` · `Ethers.js` · `React` · `MongoDB`
-
-### 🤖 **OnTrade** — Compiled On-Chain Automation Engine
-> **Distributed Logic**
-
-A visual, visual-programming workflow compiler executing automation instructions natively on-chain.
-*   **Execution**: Compiles visual trigger nodes (price feed changes, oracle signals) directly into bytecode representing on-chain logic, removing backend polling dependencies.
-*   **Integrations**: Integrates LLM routing nodes (via OpenAI API) for evaluating trading triggers before executing smart contract calls.
-*   **Stack**: `TypeScript` · `OpenAI API` · `Solidity` · `Ethers.js`
-
-### 🪪 **Credora** — Enterprise Permissioned Ledger Platform
-> **Identity and Access Management** · [Live App](https://credora-veripass.netlify.app)
-
-Double-layered private permissioned portal submitted to the **Blockchain India Challenge (MeitY)**.
-*   **Ledger Setup**: Deployed on Hyperledger Fabric with dual MetaMask + X.509 MSP authentication controls.
-*   **Stack**: `Hyperledger Fabric` · `Go` · `React`
+At **[Buildicy](https://buildicy.com)**, I spearhead the Web3 internship program:
+*   **Structured Tracks**: Designed learning pathways detailing EVM execution mechanics, ZK circuit layouts, and security auditing standard operating procedures.
+*   **Sprints & Reviews**: Managed 10+ students through code-quality checks, agile sprints, and production releases for client infrastructure.
+*   **Engineering Growth**: Mentored developers to evolve from basic front-end styling to deploying secure, gas-optimized smart contracts.
 
 ---
 
 ## 📦 Open Source Contributions
 
-| Target Repository | Contribution Details | Status |
+| Target Repository | Contribution | Status |
 | :--- | :--- | :--- |
-| **OpenZeppelin Contracts** | [PR #782](https://github.com/OpenZeppelin/contracts-wizard/pull/782) — Clarified legacy Yarn classic package management setups | `Merged` |
-| **Scaffold-ETH 2** | Modified `useScaffoldReadContract` hooks to treat `contractAddress` parameters as optional | `Shipped` |
-| **Panana Predictions** | Integrated HuggingFace NLP models to power MEV-resistant sentiment outcome resolution on Aptos | `Shipped` |
+| **OpenZeppelin Contracts** | [PR #782](https://github.com/OpenZeppelin/contracts-wizard/pull/782) — Fixed Yarn classic setups | `Merged` |
+| **Scaffold-ETH 2** | Modified `useScaffoldReadContract` to support optional `contractAddress` parameters | `Shipped` |
+| **Panana Predictions** | Integrated FinBERT sentiment index nodes for outcome resolution logic on Aptos | `Shipped` |
 
 ---
 
@@ -147,18 +185,6 @@ Double-layered private permissioned portal submitted to the **Blockchain India C
 | **Hack Beyond The Limits** | **Technical Lead & Organizer (200+ Developers)** |
 
 </details>
-
----
-
-## 🛠️ Technology Stack
-
-```
-[Languages]      : TypeScript · Rust · Go · Move · Solidity · Python
-[Protocols]      : EVM (Ethereum, Polygon, Arbitrum, Base, Cronos) · Move (Aptos)
-[Cryptography]   : ZK-SNARKs (Semaphore) · W3C DIDs · IPFS
-[Enterprise]     : Hyperledger Fabric
-[Ops & Backend]  : Docker · Node.js · PostgreSQL · MongoDB · Supabase · Vercel
-```
 
 ---
 
