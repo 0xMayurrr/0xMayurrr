@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=MAYUR%20P&fontSize=60&height=120&desc=Web3%20Infrastructure%20Engineer%20%7C%20Distributed%20Systems%20%26%20Cryptography&descAlignY=75&descSize=18&descColor=8b949e" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=00d9ff&text=MAYUR%20P&fontSize=60&height=120&desc=Web3%20Infrastructure%20Engineer%20%7C%20Distributed%20Systems%20and%20Cryptography&descAlignY=75&descSize=18&descColor=8b949e" width="100%"/>
 </p>
 
 <p align="center">
