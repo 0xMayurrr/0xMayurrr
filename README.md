@@ -1,151 +1,79 @@
+# Mayur P.
+
+**Web3 Infrastructure Engineer** — RPC infra, smart contract architecture, and on-chain trust/identity systems.
+
+Co-founder, [Buildicy](https://buildicy.com) · Web3 SDE Intern
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,50:111827,100:0d1117&text=Mayur%20P&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=38&desc=Web3%20Developer%20%7C%20Smart%20Contract%20Engineer&descSize=18&descColor=d1d5db&descAlignY=60" width="100%" />
-</p>
 
-<br/>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-mayurworks.vercel.app-ffffff?style=flat-square&logo=vercel&logoColor=black&labelColor=ffffff)](https://mayurworks.vercel.app/)&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mayurp03-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurp03/)&nbsp;&nbsp;
-[![X](https://img.shields.io/badge/X-@0xMayurrr-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xMayurrr)&nbsp;&nbsp;
-[![Research](https://img.shields.io/badge/Research-Hashnode-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://zenproof-research.hashnode.dev/)&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-mayurworks.vercel.app-ffffff?style=flat-square&logo=vercel&logoColor=black&labelColor=ffffff)](https://mayurworks.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mayurp03-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurp03/)
+[![X](https://img.shields.io/badge/X-@0xMayurrr-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/0xMayurrr)
+[![Research](https://img.shields.io/badge/Research-CoderLegion-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://coderlegion.com/20276/beyond-identity-rethinking-trust-infrastructure-through-zero-knowledge-verification)
 [![Email](https://img.shields.io/badge/Email-mayurkarthick2006%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mayurkarthick2006@gmail.com)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=0xMayurrr&color=6b7280&style=flat-square&label=profile+views)](https://github.com/0xMayurrr)
-
-</div>
-
-<br/>
-
----
-
-
-## Projects
-
-**RPCForge** — Multi-chain RPC Gateway SaaS · [rpcforge.dev](https://rpcforge.dev) · [Live on Product Hunt](https://www.producthunt.com/@0xmayurrr)
-
-The open-source alternative to Alchemy and Infura with a hosted SaaS tier. API key auth, per-key rate limits, multi-node failover, real-time dashboard, RPC playground, and chain analytics. Supports Ethereum, Polygon, BSC, and Arbitrum. Pricing: Free / $9 / $29 / $99.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
-  <img src="https://skillicons.dev/icons?i=express" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40"/>
-  <img src="https://skillicons.dev/icons?i=supabase" height="40"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=railway" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=stripe" height="40"/>
 </p>
 
 ---
 
-**ZenProof** — Privacy-Preserving Trust Infrastructure · [Research on dev.to](https://dev.to/0xmayur_p/beyond-identity-rethinking-trust-infrastructure-through-zero-knowledge-verification-10d)
+## Flagship
 
-ZK-SNARK based credential system using W3C DIDs and IPFS. Prove credentials without leaking identity. Published IEEE-style architecture paper. Roadmap product: ProofHire — an AI proof-of-skill hiring network.
+**[RPCForge](https://rpcforge.dev)** — Multi-chain RPC Gateway (SaaS) · [Product Hunt](https://www.producthunt.com/@0xmayurrr)
+Open-source alternative to Alchemy and Infura, with a hosted SaaS tier — API key auth, per-key rate limits, multi-node failover, real-time dashboard, RPC playground, chain analytics. Ethereum, Polygon, BSC, Arbitrum. Tiered pricing, Free → $99.
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs" height="36"/> <img src="https://skillicons.dev/icons?i=express" height="36"/> <img src="https://skillicons.dev/icons?i=react" height="36"/> <img src="https://skillicons.dev/icons?i=supabase" height="36"/> <img src="https://skillicons.dev/icons?i=docker" height="36"/> <img src="https://go-skill-icons.vercel.app/api/icons?i=railway" height="36"/> <img src="https://go-skill-icons.vercel.app/api/icons?i=stripe" height="36"/></p>
 
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=zksync" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ipfs" height="40"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ethereum" height="40"/>
-</p>
+**ZenProof** — Privacy-Preserving Trust Infrastructure · [Research paper](https://coderlegion.com/20276/beyond-identity-rethinking-trust-infrastructure-through-zero-knowledge-verification)
+ZK-SNARK credential system on W3C DIDs and IPFS — proves credentials without leaking identity. Published, IEEE-style architecture paper. Roadmap: ProofHire, an AI proof-of-skill hiring network.
+<p align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=zksync" height="36"/> <img src="https://skillicons.dev/icons?i=ipfs" height="36"/> <img src="https://skillicons.dev/icons?i=typescript" height="36"/> <img src="https://skillicons.dev/icons?i=ethereum" height="36"/></p>
 
----
+**[Credora](https://credora-veripass.netlify.app)** — Enterprise Credential Platform
+Verifiable Credentials on Hyperledger Fabric. Dual-layer auth (MetaMask + X.509 MSP), AI fraud detection, ZK privacy layer. Submitted to the Blockchain India Challenge 2024 (MeitY).
+<p align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=hyperledger" height="36"/> <img src="https://skillicons.dev/icons?i=go" height="36"/></p>
 
-**ChainSplit** — Decentralized Bill Splitting · [chainsplit.vercel.app](https://chainsplit.vercel.app)
+**[ChainSplit](https://chainsplit.vercel.app)** — Decentralized Bill Splitting
+Factory + GroupVault contract architecture on Cronos EVM — every group gets its own deployed, non-custodial contract. Greedy debt-minimization algorithm for optimal on-chain settlement.
+<p align="left"><img src="https://skillicons.dev/icons?i=solidity" height="36"/> <img src="https://go-skill-icons.vercel.app/api/icons?i=ethers" height="36"/> <img src="https://skillicons.dev/icons?i=react" height="36"/> <img src="https://skillicons.dev/icons?i=mongodb" height="36"/></p>
 
-Factory + GroupVault contract architecture on Cronos EVM. Each group gets its own deployed contract — fully non-custodial. Greedy debt-minimization algorithm for optimal on-chain settlements.
+**OnTrade** — On-Chain Trading Automation
+n8n-style visual workflow builder for crypto trading strategies — price triggers, indicators, AI-reasoning nodes — compiled and executed on-chain, no backend.
+<p align="left"><img src="https://skillicons.dev/icons?i=typescript" height="36"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="36"/> <img src="https://skillicons.dev/icons?i=ethereum" height="36"/></p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ethers" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-</p>
-
----
-
-**Credora** — Enterprise Credential Platform · [credora-veripass.netlify.app](https://credora-veripass.netlify.app)
-
-Verifiable Credentials on Hyperledger Fabric. Dual-layer auth (MetaMask + X.509 MSP), AI fraud detection, ZK privacy layer. Submitted to Blockchain India Challenge 2024 (MeitY).
-
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=hyperledger" height="40"/>
-  <img src="https://skillicons.dev/icons?i=go" height="40"/>
-</p>
-
----
-
-**OnTrade** — AI-Driven On-Chain Automation
-
-n8n-style visual workflow builder for crypto trading strategies. Price triggers, indicators, AI reasoning nodes — compiled and executed on-chain with no backend.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ethereum" height="40"/>
-</p>
-
----
-
-**Aptos Prediction Market** — FinBERT Sentiment Oracle
-
+**Aptos Prediction Market** — Sentiment Oracle
 Commit-reveal prediction market on Aptos with a HuggingFace FinBERT NLP oracle for MEV-resistant, sentiment-driven outcome resolution.
+<p align="left"><img src="https://go-skill-icons.vercel.app/api/icons?i=move" height="36"/> <img src="https://skillicons.dev/icons?i=nextjs" height="36"/> <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="36"/></p>
 
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=move" height="40"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" height="40"/>
-</p>
-
----
-
-**AI Smart Contract Auditor** — Production Security Tool
-
-Detects Solidity vulnerabilities, scores contract security, and auto-generates patched code in under 2 seconds. Built for NodeOps × CreateOS contest.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
-  <img src="https://skillicons.dev/icons?i=solidity" height="40"/>
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="40"/>
-</p>
+**AI Smart Contract Auditor**
+Detects Solidity vulnerabilities, scores contract security, auto-generates patched code in under 2 seconds. Built for the NodeOps × CreateOS contest.
+<p align="left"><img src="https://skillicons.dev/icons?i=typescript" height="36"/> <img src="https://skillicons.dev/icons?i=solidity" height="36"/> <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="36"/></p>
 
 ---
 
-**Campus Aid Buddy** — Gemini RAG Campus Assistant
-
-4-role campus system with a Gemini-powered RAG assistant. Built for Tech Masters '26. **Winner.**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="40"/>
-  <img src="https://skillicons.dev/icons?i=firebase" height="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=gemini" height="40"/>
-</p>
+## Other builds
+**Campus Aid Buddy** — 4-role campus assistant with a Gemini-powered RAG backend. Winner, Tech Masters '26.
+**[VibeStay](https://vibestayy.netlify.app/)** — AI-driven stay booking that filters by mood/aesthetic using speech recognition.
 
 ---
 
-**VibeStay** — AI Stay Booking Platform · [vibestayy.netlify.app](https://vibestayy.netlify.app/)
+## Buildicy — Co-founder
+Technical lead for blockchain-related client work and architecture at [buildicy.com](https://buildicy.com). Run the internship program — structuring the learning path, mentoring interns, and managing delivery on live client projects.
 
-Filters stays by mood and aesthetic using AI speech recognition and vibe-based recommendations.
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/openai.svg" height="40"/>
-  <img src="https://cdn.simpleicons.org/google" height="40"/>
-</p>
 ---
 
 ## Open Source
 
 | Project | Contribution | Status |
 |---|---|---|
-| OpenZeppelin Contracts Wizard | [PR #782](https://github.com/OpenZeppelin/contracts-wizard/pull/782) — Fixed yarn classic v1.x install docs | Merged |
+| OpenZeppelin Contracts Wizard | [PR #782](https://github.com/OpenZeppelin/contracts-wizard/pull/782) — fixed yarn classic v1.x install docs | Merged |
 | Scaffold-ETH 2 | Made `contractAddress` optional in `useScaffoldReadContract` | Shipped |
-| Panana Predictions (Aptos) | Added HuggingFace FinBERT NLP sentiment oracle | Shipped |
+| Panana Predictions (Aptos) | Added HuggingFace FinBERT sentiment oracle | Shipped |
 
 ---
 
 ## Hackathons
+10+ wins/finals, including Tech Masters '26 (Winner) and Google Developer Hackathon (Runner-up). Also organized Hack Beyond The Limits, a 24-hour national hackathon with 200+ participants.
+
+<details>
+<summary>Full results</summary>
 
 | Event | Result |
 |---|---|
@@ -158,89 +86,33 @@ Filters stays by mood and aesthetic using AI speech recognition and vibe-based r
 | Deep Funding Round | Top 5 |
 | Build on Aptos | Finalist |
 | Pivot Hackathon | Finalist |
-| Hack Beyond The Limits | Technical Organizer — 24h national hackathon |
+| Hack Beyond The Limits | Technical Organizer |
+
+</details>
 
 ---
 
-### 🎯 Core Expertise
-
-Smart Contracts • Account Abstraction • DeFi • RPC Infrastructure • Web3 SaaS • ZK Identity • AI Agents • RAG Systems • Wallet Development • Multi-Chain Architecture • API Platforms • Developer Tooling
-
----
+## Core Expertise
+RPC Infrastructure • Smart Contracts • ZK Identity • Multi-Chain Architecture • Account Abstraction • DeFi • Developer Tooling • Web3 SaaS • AI Agents & RAG • Wallet Development • API Platforms
 
 ## Stack
 
-### Blockchain
+**Blockchain**
+<p align="left"><img src="https://skillicons.dev/icons?i=solidity" height="38"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" height="38"/> <img src="https://cdn.simpleicons.org/ethers" height="38"/> <img src="https://cdn.simpleicons.org/ethereum" height="38" title="Wagmi"/> <img src="https://cdn.simpleicons.org/openzeppelin" height="38"/> <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" height="38"/></p>
+Solidity • Hardhat • Ethers.js • Wagmi • OpenZeppelin • Hyperledger Fabric
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=solidity" height="42" title="Solidity"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hardhat/hardhat-original.svg" height="42" title="Hardhat"/>
-  <img src="https://cdn.simpleicons.org/ethers" height="42" title="Ethers.js"/>
-  <img src="https://cdn.simpleicons.org/ethereum" height="42" title="Wagmi"/>
-  <img src="https://cdn.simpleicons.org/openzeppelin" height="42" title="OpenZeppelin"/>
-  <img src="https://www.vectorlogo.zone/logos/hyperledger/hyperledger-icon.svg" height="42" title="Hyperledger Fabric"/>
-</p>
+**ZK & Identity**
+ZK-SNARKs • Semaphore • W3C DIDs • IPFS
 
-**Solidity • Hardhat • Ethers.js • Wagmi • OpenZeppelin • Hyperledger Fabric**
+**Chains**
+Ethereum • Polygon • Arbitrum • BNB Chain • Base • Cronos • Aptos • Solana
 
----
+**Full Stack**
+TypeScript • JavaScript • Python • Go • React • Next.js • Node.js
 
-### ZK & Identity
+**Infrastructure**
+Docker • Supabase • PostgreSQL • MongoDB • Railway • Vercel • Stripe
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ipfs" height="42" title="IPFS"/>
-</p>
-
-**ZK-SNARKs • Semaphore • W3C DIDs • IPFS**
-
----
-
-###  Chains
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ethereum" height="42" title="Ethereum"/>
-  <img src="https://cryptologos.cc/logos/polygon-matic-logo.png?v=040" height="42" title="Polygon"/>
-  <img src="https://cryptologos.cc/logos/arbitrum-arb-logo.png?v=040" height="42" title="Arbitrum"/>
-  <img src="https://cryptologos.cc/logos/bnb-bnb-logo.png?v=040" height="42" title="BNB Chain"/>
-  <img src="https://cdn.simpleicons.org/base" height="42" title="Base"/>
-  <img src="https://cdn.simpleicons.org/cronos" height="42" title="Cronos"/>
-  <img src="https://cryptologos.cc/logos/aptos-apt-logo.png?v=040" height="42" title="Aptos"/>
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=040" height="42" title="Solana"/>
-</p>
-
-**Ethereum • Polygon • Arbitrum • BNB Chain • Base • Cronos • Aptos • Solana**
-
----
-
-### Full Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript" height="42" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="42" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=python" height="42" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=go" height="42" title="Go"/>
-  <img src="https://skillicons.dev/icons?i=react" height="42" title="React"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="42" title="Next.js"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="42" title="Node.js"/>
-</p>
-
-**TypeScript • JavaScript • Python • Go • React • Next.js • Node.js**
-
----
-
-### ☁️ Infrastructure
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker" height="42" title="Docker"/>
-  <img src="https://skillicons.dev/icons?i=supabase" height="42" title="Supabase"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="42" title="PostgreSQL"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="42" title="MongoDB"/>
-  <img src="https://railway.com/brand/logo-light.svg" height="42" title="Railway"/>
-  <img src="https://skillicons.dev/icons?i=vercel" height="42" title="Vercel"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" height="42" title="Stripe"/>
-</p>
-
-**Docker • Supabase • PostgreSQL • MongoDB • Railway • Vercel • Stripe**
 ---
 
 ## Stats
@@ -254,30 +126,16 @@ Smart Contracts • Account Abstraction • DeFi • RPC Infrastructure • Web3
 <img src="https://streak-stats.demolab.com?user=0xMayurrr&theme=tokyonight&hide_border=true&background=0d1117&ring=ffffff&fire=6b7280&currStreakLabel=ffffff" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=0xMayurrr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xMayurrr&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6b7280&line=374151&point=ffffff" />
-</p>
-
-<p align="center">
-<img src="https://github.com/0xMayurrr/0xMayurrr/blob/output/github-snake-dark.svg" />
-</p>
-
 ---
 
-<div align="center">
+<p align="center">
+Open to <b>Web3 Infrastructure / Protocol Engineering</b> roles — remote or relocation.
+</p>
 
-Looking for remote Web3 roles — smart contract dev, protocol engineering, infra, DevRel. Open to relocation.
+<p align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mayurworks.vercel.app/)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurp03/)&nbsp;
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xMayurrr)&nbsp;
-[![Research](https://img.shields.io/badge/Research-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://zenproof-research.hashnode.dev/)&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://mayurworks.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayurp03/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xMayurrr)
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:111827&height=80&section=footer" width="100%"/>
-
-</div>
+</p>
