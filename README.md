@@ -209,7 +209,7 @@ At **[Buildicy](https://buildicy.com)**, I spearhead the Web3 internship program
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=0xMayurrr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xMayurrr&bg_color=0d1117&color=00E676&line=00C853&point=69F0AE&area=true&hide_border=true" width="100%"/>
 </p>
 
 ---
