@@ -204,12 +204,12 @@ At **[Buildicy](https://buildicy.com)**, I spearhead the Web3 internship program
 ## 📊 Telemetry Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xMayurrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=ffffff&icon_color=00D9FF&text_color=9ca3af"/>
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xMayurrr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&langs_count=8"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xMayurrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xMayurrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=0xMayurrr&theme=tokyonight&hide_border=true&background=0d1117&ring=00D9FF&fire=00D9FF&currStreakLabel=ffffff"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=0xMayurrr&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
