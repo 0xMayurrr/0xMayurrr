@@ -204,8 +204,8 @@ At **[Buildicy](https://buildicy.com)**, I spearhead the Web3 internship program
 ## 📊 Telemetry Stats
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=0xMayurrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=0xMayurrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+  <img height="165em" src="https://0x-mayurrr.vercel.app/api?username=0xMayurrr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="165em" src="https://0x-mayurrr.vercel.app/api/top-langs/?username=0xMayurrr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
