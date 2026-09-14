@@ -1,19 +1,19 @@
 <div align="center">
 
 # MAYUR P
-### `Full Stack Engineer` & `AI + Web3 Systems Builder`
+### `Full Stack Engineer` · `AI, Web2 & Web3 Systems Builder`r`
 
-<pre>
+```http
 GET /api/v1/engineer/status HTTP/1.1
 Host: mayur.works
 ---
 HTTP/1.1 200 OK
 Server: Web3-Infra-Node/2.0
-X-Current-Role: Full Stack Engineer
+X-Current-Role: Web3 SDE Intern
 X-Venture: Co-founder & Technical Lead @ Buildicy
-X-Core-Focus: Full-Stack Systems, AI Applications, Web3 Infrastructure
+X-Core-Focus: Distributed Consensus, RPC Gateways, ZK-SNARKs, EVM Topologies
 X-Status: Actively Shipping 🚀
-</pre>
+```
 
 <p align="center">
   <a href="https://mayurworks.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Live-00D9FF?style=for-the-badge&logo=vercel&logoColor=black&labelColor=ffffff"/></a>
@@ -37,16 +37,16 @@ X-Status: Actively Shipping 🚀
     <td width="50%" valign="top">
       <h3>🚀 Active Trajectory</h3>
       <ul>
-        <li><b>Full Stack Engineer</b>: Building production web, backend, AI, and Web3 systems across the stack.</li>
+        <li><b>Web3 SDE Intern</b>: Focus on distributed consensus, node architecture, and high-performance smart contract integrations.</li>
         <li><b>Co-founder @ <a href="https://buildicy.com">Buildicy</a></b>: Lead technical delivery, conduct contract audits, and manage our incubator program.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h3>🛠️ Core Focus</h3>
       <ul>
-        <li><b>Full-Stack Systems</b>: Production web applications, backend APIs, integrations, and developer infrastructure.</li>
-        <li><b>AI & Agent Systems</b>: LLM-powered applications, AI tooling, automation, and agent-oriented systems.</li>
-        <li><b>Web3 Infrastructure</b>: RPC gateways, EVM systems, smart contracts, wallets, and blockchain integrations.</li>
+        <li><b>Distributed Systems</b>: High-throughput RPC gateways, sub-millisecond node failover, token-bucket rate-limiting.</li>
+        <li><b>Cryptography & Identity</b>: zk-SNARK proof circuits, W3C Decentralized Identifiers (DIDs), IPFS data schemas.</li>
+        <li><b>EVM & Resource Topologies</b>: Non-custodial factory vault patterns, gas-optimized state structures (Solidity / Move).</li>
       </ul>
     </td>
   </tr>
@@ -54,7 +54,7 @@ X-Status: Actively Shipping 🚀
 
 ---
 
-## ⚙️ Flagship Projects
+## ⚙️ Flagship Infrastructure
 
 <table width="100%">
   <thead>
@@ -65,39 +65,6 @@ X-Status: Actively Shipping 🚀
     </tr>
   </thead>
   <tbody>
-
-    <tr>
-      <td>
-        <b>SMART_AUDIT</b><br/>
-        <sub>AI-Native Smart Contract Auditor</sub>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-      </td>
-      <td>
-        • Built an AI-powered smart contract security auditor that detects vulnerabilities and generates patched code.<br/>
-        • Exposed structured outputs through MCP for integration with AI agent workflows.
-      </td>
-    </tr>
-
-    <tr>
-      <td>
-        <b>OnTrade</b><br/>
-        <sub>On-Chain Compiler</sub>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
-      </td>
-      <td>
-        • Designed an engine compiling visual logic nodes into executable on-chain workflows.<br/>
-        • Integrated AI routing nodes to dynamically evaluate market conditions before execution.
-      </td>
-    </tr>
-
     <tr>
       <td>
         <b>RPCForge</b><br/>
@@ -114,24 +81,6 @@ X-Status: Actively Shipping 🚀
         • Implemented real-time token-bucket rate limiting and automatic sub-millisecond failover mechanisms.
       </td>
     </tr>
-
-    <tr>
-      <td>
-        <b>ChainSplit</b><br/>
-        <sub>Vault Settlement Engine</sub><br/>
-        <a href="https://chainsplit.vercel.app"><code>chainsplit.vercel.app</code></a>
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/><br/>
-        <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square"/><br/>
-        <img src="https://img.shields.io/badge/Cronos-002D74?style=flat-square"/>
-      </td>
-      <td>
-        • Architected a non-custodial factory vault pattern, removing pooled-funds custody risks entirely.<br/>
-        • Programmed an on-chain greedy debt-minimization algorithm, reducing transactional load by 45%.
-      </td>
-    </tr>
-
     <tr>
       <td>
         <b>ZenProof</b><br/>
@@ -148,7 +97,52 @@ X-Status: Actively Shipping 🚀
         • Published the formal IEEE-style privacy-preserving trust infrastructure architecture paper.
       </td>
     </tr>
-
+    <tr>
+      <td>
+        <b>ChainSplit</b><br/>
+        <sub>Vault Settlement Engine</sub><br/>
+        <a href="https://chainsplit.vercel.app"><code>chainsplit.vercel.app</code></a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Ethers.js-2535A0?style=flat-square"/><br/>
+        <img src="https://img.shields.io/badge/Cronos-002D74?style=flat-square"/>
+      </td>
+      <td>
+        • Architected a non-custodial factory vault pattern, removing pooled-funds custody risks entirely.<br/>
+        • Programmed an on-chain greedy debt-minimization algorithm, reducing transactional load by 45%.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>OnTrade</b><br/>
+        <sub>On-Chain Compiler</sub>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+      </td>
+      <td>
+        • Designed an engine compiling visual logic nodes into executable on-chain bytecode, removing backend dependencies.<br/>
+        • Bound AI routing nodes to dynamically evaluate market conditions prior to state execution.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>Credora</b><br/>
+        <sub>Enterprise Access Portal</sub><br/>
+        <a href="https://credora-veripass.netlify.app"><code>veripass.netlify.app</code></a>
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white"/><br/>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+      </td>
+      <td>
+        • Structured an identity validation system for the Blockchain India Challenge (MeitY).<br/>
+        • Implemented MetaMask + X.509 Membership Service Provider (MSP) double authentication layers.
+      </td>
+    </tr>
   </tbody>
 </table>
 
@@ -157,7 +151,6 @@ X-Status: Actively Shipping 🚀
 ## 👨‍🏫 Mentorship & Technical Leadership
 
 At **[Buildicy](https://buildicy.com)**, I spearhead the Web3 internship program:
-
 *   **Structured Tracks**: Designed learning pathways detailing EVM execution mechanics, ZK circuit layouts, and security auditing standard operating procedures.
 *   **Sprints & Reviews**: Managed 10+ students through code-quality checks, agile sprints, and production releases for client infrastructure.
 *   **Engineering Growth**: Mentored developers to evolve from basic front-end styling to deploying secure, gas-optimized smart contracts.
@@ -176,7 +169,7 @@ At **[Buildicy](https://buildicy.com)**, I spearhead the Web3 internship program
 
 ## 🏆 Hackathon Records
 
-<pre>
+```
 ┌──────────────────────────────────────────────────────────────────┐
 │                      OFFICIAL LEAGUE RECORD                      │
 ├──────────────────────────────────────────────────────────────────┤
@@ -186,7 +179,7 @@ At **[Buildicy](https://buildicy.com)**, I spearhead the Web3 internship program
 │  🚀 Blockchain India Challenge 2024 (MeitY Submission)           │
 │  ⭐ 10+ Total Hackathon Finals & Submissions                     │
 └──────────────────────────────────────────────────────────────────┘
-</pre>
+```
 
 <details>
 <summary>🔍 Expand Full Hackathon Timeline</summary>
@@ -223,18 +216,16 @@ At **[Buildicy](https://buildicy.com)**, I spearhead the Web3 internship program
 
 ### `> Operational Status`
 
-<pre>
+```rust
 fn get_system_status() -> StatusReport {
     StatusReport {
         status: "Actively Shipping",
         open_to: [
-            "Full Stack Engineering",
-            "AI / Agent Engineering",
-            "Web3 & Infrastructure Engineering"
+            "Web3 Infrastructure Engineering",
+            "Smart Contract / Protocol Engineering",
+            "Core Developer Tooling Roles"
         ],
         direct_comms: "mayurkarthick2006@gmail.com"
     }
 }
-</pre>
-
-</div>
+```
